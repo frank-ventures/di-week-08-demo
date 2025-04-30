@@ -1,4 +1,4 @@
-const url = "http://localhost:8080";
+const url = "https://di-week-08-demo.onrender.com/";
 
 document.getElementById("button").addEventListener("click", async () => {
   document.getElementById("mylist").innerHTML = "<p>Loading......</p>";
